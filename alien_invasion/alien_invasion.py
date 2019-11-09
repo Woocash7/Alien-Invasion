@@ -1,3 +1,5 @@
+#Main file; Double click to run game
+
 import pygame
 from settings import Settings
 from ship import Ship
